@@ -1,0 +1,17 @@
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Release\CSMU-KMS.exe.config
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Release\CSMU-KMS.exe
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Release\CSMU-KMS.pdb
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Release\CSMU_KMS.browser.resources
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Release\CSMU_KMS.menu.resources
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Release\CSMU_KMS.Properties.Resources.resources
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Release\CSMU-KMS.csproj.GenerateResource.cache
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Release\CSMU-KMS.exe
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Release\CSMU-KMS.pdb
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Release\CSMU-KMS.csprojAssemblyReference.cache
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Release\scripts\office2010_KMS.bat
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Release\scripts\office2013_KMS.bat
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Release\scripts\office2016_KMS.bat
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Release\scripts\windows_KMS.bat
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Release\scripts\windows_KMS_dyu.bat
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Release\scripts\o15-ctrremove.diagcab
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Release\scripts\office2019_KMS.bat

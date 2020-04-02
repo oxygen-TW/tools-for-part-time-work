@@ -1,0 +1,15 @@
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Debug\CSMU-KMS.exe.config
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Debug\CSMU-KMS.exe
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Debug\CSMU-KMS.pdb
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Debug\CSMU-KMS.csprojAssemblyReference.cache
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Debug\CSMU_KMS.Properties.Resources.resources
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Debug\CSMU-KMS.csproj.GenerateResource.cache
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Debug\CSMU-KMS.csproj.CoreCompileInputs.cache
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Debug\CSMU-KMS.exe
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Debug\CSMU-KMS.pdb
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Debug\office2010_KMS.bat
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Debug\CSMU_KMS.browser.resources
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\obj\Debug\CSMU_KMS.menu.resources
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Debug\Office2013_KMS.bat
+c:\users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Debug\Office2016_KMS.bat
+C:\Users\oxygen\source\repos\CSMU-KMS\CSMU-KMS\bin\Debug\windows_KMS.bat
